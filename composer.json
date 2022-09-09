@@ -1,9 +1,16 @@
 {
   "name": "zstore/init",
-  "description": "",
+  "description": "zStore is registered on external services and is intended for delivery of packages and applications.",
   "type": "project",
   "license": "MIT",
+  "homepage": "https://github.com/zbox",
   "keywords": ["zstore", "init-composer"],
+  "support": {
+    "source": "https://github.com/zbox/init",
+    "issues": "https://github.com/zbox/init/issues",
+    "docs": "https://github.com/zbox/init/wiki",
+    "forum": "https://github.com/zbox/init/discussions"
+  },
   "config": {
     "optimize-autoloader": true,
     "prepend-autoloader": false,
